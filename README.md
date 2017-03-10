@@ -1,1 +1,0 @@
-# dotnet4openshift
